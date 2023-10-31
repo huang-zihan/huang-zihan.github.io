@@ -47,6 +47,7 @@ Mengze Li∗, **Zihan Huang∗**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang
 <div class='paper-box-text' markdown="1">
 
 [TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval]()
+
 Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao, Shengyu Zhang, Wenming Tan, Fei Wu
 ( * equal contribution)
 
