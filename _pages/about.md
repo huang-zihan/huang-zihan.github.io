@@ -33,11 +33,15 @@ Huang is a junior student at Turing Class, Chu Kochen Honors College of Zhejiang
 <div class='paper-box-text' markdown="1">
 
 [Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation]()
+
 Mengze Li∗, **Zihan Huang∗**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shengyu Zhang, Fei Wu
 ( * equal contribution)
 
 - We created an framework based on differential privacy to filter privacy information in data while training captioning model. 
 - The evaluation result of our framework PDD shows that we can add more privacy protection for models while keeping maintaining better model usability compared with other methods.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM2023</div><img src='images/ACMMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +56,8 @@ Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
 
 [Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease network]()
 (Under Review, Second Author)
