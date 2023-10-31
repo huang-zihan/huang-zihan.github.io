@@ -24,13 +24,12 @@ Huang is a junior student at Turing Class, Chu Kochen Honors College of Zhejiang
 
 # 📝 Research 
 
-## UCSD Research Assistant, 2023.6-2023.10
+## UCSD Research Assistant, 2023.6-To Date
 
 
 ## ZJU Research Assistant, 2022.2-2023.6
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation]()
@@ -39,6 +38,25 @@ Mengze Li∗, **Zihan Huang∗**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang
 
 - We created an framework based on differential privacy to filter privacy information in data while training captioning model. 
 - The evaluation result of our framework PDD shows that we can add more privacy protection for models while keeping maintaining better model usability compared with other methods.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM2023</div><img src='images/ACMMM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval]()
+Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao, Shengyu Zhang, Wenming Tan, Fei Wu
+( * equal contribution)
+
+- We created an system with causal disentanglement to retrieve videos of different data distribution by natural language discription of their contents. 
+- The result and case study shows of our systems can retrieve videos with differnent senarios robustly.
+- We provides a datasets with various videos from life and movie to better evaluate our system and for research in this area.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/500×300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease network]()
+(Under Review, Second Author)
+
+- We proposed a contrastive pre-training methods of GNN to predict the correlation between miRNA-gene and diseases.
 
 </div>
 </div>
