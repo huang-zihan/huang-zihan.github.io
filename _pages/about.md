@@ -50,7 +50,7 @@ Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao
 - The result and case study shows of our systems can retrieve videos with differnent senarios robustly.
 - We provides a datasets with various videos from life and movie to better evaluate our system and for research in this area.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/500×300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease network]()
