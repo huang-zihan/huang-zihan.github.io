@@ -26,21 +26,24 @@ Huang is a junior student at Turing Class, Chu Kochen Honors College of Zhejiang
 
 ## UCSD Research Assistant, 2023.6-2023.10
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 ## ZJU Research Assistant, 2022.2-2023.6
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation]()
+Mengze Li∗, **Zihan Huang∗**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shengyu Zhang, Fei Wu
+( * equal contribution)
+
+- We created an framework based on differential privacy to filter privacy information in data while training captioning model. 
+- The evaluation result of our framework PDD shows that we can add more privacy protection for models while keeping maintaining better model usability compared with other methods.
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - Project leader of National Student Research Training Program(SRTP) and rated as
