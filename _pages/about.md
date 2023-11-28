@@ -58,7 +58,7 @@ Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/BIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease network]()
@@ -72,10 +72,8 @@ Mengze Li∗, **Zihan Huang∗**, Han Wang∗, Jiaxu Miao, Wenyan Fan, Zhou Zhao
 
 
 # 🎖 Honors and Awards
-- Project leader of National Student Research Training Program(SRTP) and rated as
-- Outstanding, 2022-2023
-- Honorable Winner of Mathematical Contest in Modeling(MCM), work as team
-- leader, 2022, COMAP
+- Project leader of National Student Research Training Program(SRTP) and rated as Outstanding, 2022-2023
+- Honorable Winner of Mathematical Contest in Modeling(MCM), work as team leader, 2022, COMAP
 - Academic Excellence Award 2020-2022, Chu Kochen Honors College of ZJU
 - Second-Class Scholarship for Elite Student in Basic Sciences, 2021-2022, ZJU
 - Serve as NeurIPS emergency Reveiwer, 2023
