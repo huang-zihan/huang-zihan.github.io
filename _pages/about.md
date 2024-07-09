@@ -26,11 +26,14 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 # 📖 Educations
 - *2020.09 - 2024.06* B.E. in Artificial Intelligence, Turing Class, Chu Kochen Honors College, Zhejiang University, Hangzhou, China
 
-# 📝 Research 
+# 📝 Research and Work Experiences
+
+## Alibaba Tmall Meta Research Group, 2024.6-Present
+
 
 ## Shanghai Institute for Advanced Study of Zhejiang University, 2024.1-2024.6, Supervisor : Prof. Jingyuan Chen
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/bg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INeurIPS 2024 Track on Datasets and Benchmarks</div><img src='images/bg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding, NeurIPS 2024 Datasets and Benchmarks Track (Under Review)](https://autogeo-official.github.io/)
@@ -58,7 +61,9 @@ Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease n
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation](docs/PDD.pdf)
+<!-- [Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation](docs/PDD.pdf) -->
+<a href="docs/PDD.pdf">Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation</a>
+
 
 Mengze Li, **Zihan Huang**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shengyu Zhang, Fei Wu
 
@@ -71,7 +76,8 @@ Mengze Li, **Zihan Huang**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM2023</div><img src='images/ACMMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval](docs/TITAN.pdf)
+<!-- [TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval](docs/TITAN.pdf) -->
+<a href="docs/TITAN.pdf">TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval</a>
 
 Mengze Li, **Zihan Huang**, Han Wang, Jiaxu Miao, Wenyan Fan, Zhou Zhao, Shengyu Zhang, Wenming Tan, Fei Wu
 
