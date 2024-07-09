@@ -30,7 +30,7 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 
 ## Shanghai Institute for Advanced Study of Zhejiang University, 2024.1-2024.6, Supervisor : Prof. Jingyuan Chen
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/bg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding, NeurIPS 2024 Datasets and Benchmarks Track (Under Review)](https://autogeo-official.github.io/)
