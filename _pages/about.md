@@ -46,7 +46,7 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 </div>
 
 
-## ZJU DCD Lab, 2022.2-2023.6
+## ZJU DCD Lab, 2022.2-2023.6, Supervisor : Prof. Fei Wu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/BIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,8 +61,7 @@ Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease n
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation](docs/PDD.pdf) -->
-<a href="docs/PDD.pdf">Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation</a>
+<a href="https://github.com/huang-zihan/huang-zihan.github.io/tree/main/docs/PDD.pdf">Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation</a>
 
 
 Mengze Li, **Zihan Huang**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shengyu Zhang, Fei Wu
@@ -77,7 +76,7 @@ Mengze Li, **Zihan Huang**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shen
 <div class='paper-box-text' markdown="1">
 
 <!-- [TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval](docs/TITAN.pdf) -->
-<a href="docs/TITAN.pdf">TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval</a>
+<a href="https://github.com/huang-zihan/huang-zihan.github.io/tree/main/docs/TITAN.pdf">TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval</a>
 
 Mengze Li, **Zihan Huang**, Han Wang, Jiaxu Miao, Wenyan Fan, Zhou Zhao, Shengyu Zhang, Wenming Tan, Fei Wu
 
