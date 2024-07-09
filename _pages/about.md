@@ -51,7 +51,7 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/BIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Cross-graph contrastive pre-training for link prediction in miRNA-gene-disease network (Under Review)
+Global-local aware heterogeneous graph contrastive learning for multifaceted association prediction in miRNA-gene-disease networks (Under Review)
 
 - We proposed a contrastive pre-training methods of GNN to predict the correlation between miRNA-gene and diseases.
 
