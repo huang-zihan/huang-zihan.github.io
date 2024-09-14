@@ -20,6 +20,7 @@ redirect_from:
 I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University. My research interest lies in Multimodality, LLMs, Machine Learning and its Application. During my undergraduate, I colaborated with professor Fei Wu, Jingyuan Chen at Zhejiang University and professor Pengtao Xie at University of California San Diego.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
 - *2024.06*: &nbsp;🎉🎉 Open-sourced my project AutoGeo ([project page](https://autogeo-official.github.io/))
 - *2024.06*: &nbsp;🎉🎉 Graduated from Chu Kochen Honors College of Zhejiang University with B.E.
 
@@ -51,7 +52,7 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/BIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Global-local aware heterogeneous graph contrastive learning for multifaceted association prediction in miRNA-gene-disease networks (Under Review)
+<a href="https://academic.oup.com/bib/article/25/5/bbae443/7754451">Global-local aware heterogeneous graph contrastive learning for multifaceted association prediction in miRNA-gene-disease networks
 
 - We proposed a contrastive pre-training methods of GNN to predict the correlation between miRNA-gene and diseases.
 
