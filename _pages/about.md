@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University. My research interest lies in Multimodality, LLMs, Machine Learning and its Application. During my undergraduate, I colaborated with professor Fei Wu, Jingyuan Chen at Zhejiang University and professor Pengtao Xie at University of California San Diego.
+I am currently a Master Student in Computer Science in UC, San Diego. I obtained my bachelor's degree from Turing Class, Chu Kochen Honors College of Zhejiang University.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
@@ -25,6 +25,7 @@ I graguated from Turing Class, Chu Kochen Honors College of Zhejiang University.
 - *2024.06*: &nbsp;🎉🎉 Graduated from Chu Kochen Honors College of Zhejiang University with B.E.
 
 # 📖 Educations
+- *2024.09 - Present* B.S. in Computer Science, University of California San Diego, CA, United States
 - *2020.09 - 2024.06* B.E. in Artificial Intelligence, Turing Class, Chu Kochen Honors College, Zhejiang University, Hangzhou, China
 
 # 📝 Research and Work Experiences
