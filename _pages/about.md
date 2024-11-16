@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master Student in Computer Science in UC, San Diego. I obtained my bachelor's degree from Turing Class, Chu Kochen Honors College of Zhejiang University.
+I am currently a Master Student in Computer Science at UC, San Diego. I obtained my bachelor's degree from Turing Class, Chu Kochen Honors College of Zhejiang University.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
