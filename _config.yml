@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihan Huang"
   avatar           : "images/person.jpg"
-  bio              : "Chu Kochen Honors College, Zhejiang University"
+  bio              : #"Chu Kochen Honors College, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
