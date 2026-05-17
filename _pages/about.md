@@ -22,13 +22,12 @@ I am a Ph.D. student in Computer Science at the University of California, San Di
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉🎉 [WS-GRPO](https://arxiv.org/abs/2602.17025) accepted at **ICML 2026**
-- *2025.11*: &nbsp;🎉🎉 [Image Difference Captioning via Adversarial Preference Optimization](https://aclanthology.org/2025.emnlp-main.1713/) accepted at **EMNLP 2025**
-- *2025.10*: &nbsp;🎉🎉 [Traceable and Explainable Multimodal Large Language Models](https://openreview.net/forum?id=pQm66IPmeE) accepted at **COLM 2025**
-- *2025*: &nbsp;🎉🎉 [AutoGeo](https://doi.org/10.1109/TMM.2025.3557720) published in **IEEE Transactions on Multimedia**
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by **Briefings in Bioinformatics** ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
-- *2024.06*: &nbsp;🎉🎉 Open-sourced [AutoGeo](https://autogeo-official.github.io/)
-- *2024.06*: &nbsp;🎉🎉 Graduated from Chu Kochen Honors College of Zhejiang University with B.E.
+- *2026.05*: &nbsp; [WS-GRPO](https://arxiv.org/abs/2602.17025) accepted at **ICML 2026**
+- *2025.11*: &nbsp; [Image Difference Captioning via Adversarial Preference Optimization](https://aclanthology.org/2025.emnlp-main.1713/) accepted at **EMNLP 2025**
+- *2025.10*: &nbsp; [Traceable and Explainable Multimodal Large Language Models](https://openreview.net/forum?id=pQm66IPmeE) accepted at **COLM 2025**
+- *2025*: &nbsp; [AutoGeo](https://doi.org/10.1109/TMM.2025.3557720) published in **IEEE Transactions on Multimedia**
+- *2024.09*: &nbsp; One paper accepted by **Briefings in Bioinformatics** ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
+- *2024.06*: &nbsp; Graduated from Chu Kochen Honors College of Zhejiang University with B.E.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
