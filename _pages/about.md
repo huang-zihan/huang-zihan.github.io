@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: ""
 excerpt: ""
@@ -33,12 +33,11 @@ I am a Ph.D. student in Computer Science at the University of California, San Di
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 
-\* denotes equal contribution.
-
 ## Published
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="WS-GRPO" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*ICML 2026*
 
 [WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning](https://icml.cc/virtual/2026/poster/64686)
 
@@ -49,8 +48,9 @@ Gagan Mundada, **Zihan Huang**, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="IDC" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*EMNLP 2025*
 
 [Image Difference Captioning via Adversarial Preference Optimization](https://aclanthology.org/2025.emnlp-main.1713/)
 
@@ -61,20 +61,22 @@ Gagan Mundada, **Zihan Huang**, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/500x300.png' alt="Traceable MLLM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*COLM 2025*
 
 [Traceable and Explainable Multimodal Large Language Models: An Information-Theoretic View](https://openreview.net/forum?id=pQm66IPmeE)
 
-**Zihan Huang**\* , Junda Wu\*, Rohan Surana, Raghav Jain, Tong Yu, Raghavendra Addanki, David Arbour, Sungchul Kim, Julian McAuley
+**Zihan Huang**, Junda Wu, Rohan Surana, Raghav Jain, Tong Yu, Raghavendra Addanki, David Arbour, Sungchul Kim, Julian McAuley
 
 [[Paper](https://openreview.net/forum?id=pQm66IPmeE)]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/TMM.jpg' alt="AutoGeo" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*IEEE TMM 2025*
 
 [AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding](https://autogeo-official.github.io/)
 
@@ -85,8 +87,9 @@ Gagan Mundada, **Zihan Huang**, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB 2024</div><img src='images/BIB.jpg' alt="HGC" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*BIB 2024*
 
 [Global-local aware Heterogeneous Graph Contrastive Learning for multifaceted association prediction in miRNA–gene–disease networks](https://academic.oup.com/bib/article/25/5/bbae443/7754451)
 
@@ -99,8 +102,9 @@ Yang Si, **Zihan Huang**, Zhengqing Fang, Zhen Yuan, Zhen Huang, Yuxuan Li, Yuxu
 
 ## Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="GFCR Survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*arXiv*
 
 [Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning](https://arxiv.org/abs/2605.02913)
 
@@ -111,8 +115,9 @@ Rohan Surana, Gagan Mundada, Xunyi Jiang, Chen Wang, Zifan Tang, Dongxu Jiao, **
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="AMPS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*arXiv*
 
 [AMPS: Adaptive Modality Preference Steering via Functional Entropy](https://arxiv.org/abs/2602.12533)
 
@@ -123,8 +128,9 @@ Rohan Surana, Gagan Mundada, Xunyi Jiang, Chen Wang, Zifan Tang, Dongxu Jiao, **
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Skill-R1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*arXiv*
 
 [Skill-R1: Agent Skill Evolution via Reinforcement Learning](https://arxiv.org/abs/2605.09359)
 
@@ -135,20 +141,22 @@ Yash Vishe, Rohan Surana, Xunyi Jiang, **Zihan Huang**, Xintong Li, Nikki Lijing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Skill-CMIB" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*arXiv*
 
 [Skill-CMIB: Multimodal Agent Skill for Consistent Action via Conditional Multimodal Information Bottleneck](https://arxiv.org/abs/2605.08526)
 
-**Zihan Huang**\* , Junda Wu\*, Tong Yu, Qianqi Yan, Rohan Surana, Uttaran Bhattacharya, Lina Yao, Xin Eric Wang, Julian McAuley
+**Zihan Huang**, Junda Wu, Tong Yu, Qianqi Yan, Rohan Surana, Uttaran Bhattacharya, Lina Yao, Xin Eric Wang, Julian McAuley
 
 [[Paper](https://arxiv.org/abs/2605.08526)]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Entity Matching" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+*arXiv*
 
 [Evaluation on Entity Matching in Recommender Systems](https://arxiv.org/abs/2601.17218)
 
