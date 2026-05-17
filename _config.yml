@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihan Huang"
-description              : "B.S. student in Computer Science at UC, San Diego"
+description              : "Ph.D. student in Computer Science at UC San Diego"
 repository               : "huang-zihan/huang-zihan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "San Diego, United States"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "huanzh@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=OPWs1F4AAAAJ"
+  email            : "zih043@ucsd.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

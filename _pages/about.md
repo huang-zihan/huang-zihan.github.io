@@ -17,88 +17,172 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master Student in Computer Science at UC, San Diego. I obtained my bachelor's degree from Turing Class, Chu Kochen Honors College of Zhejiang University.
+I am a Ph.D. student in Computer Science at the University of California, San Diego, advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My research focuses on multimodal large language models, reinforcement learning for LLM reasoning, and recommender systems. I received my B.E. from the Turing Class, Chu Kochen Honors College at Zhejiang University.
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by Briefings in Bioinformatics ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
-- *2024.06*: &nbsp;🎉🎉 Open-sourced my project AutoGeo ([project page](https://autogeo-official.github.io/))
+
+- *2026.07*: &nbsp;🎉🎉 [WS-GRPO](https://arxiv.org/abs/2602.17025) accepted at **ICML 2026**
+- *2025.11*: &nbsp;🎉🎉 [Image Difference Captioning via Adversarial Preference Optimization](https://aclanthology.org/2025.emnlp-main.1713/) accepted at **EMNLP 2025**
+- *2025.10*: &nbsp;🎉🎉 [Traceable and Explainable Multimodal Large Language Models](https://openreview.net/forum?id=pQm66IPmeE) accepted at **COLM 2025**
+- *2025*: &nbsp;🎉🎉 [AutoGeo](https://doi.org/10.1109/TMM.2025.3557720) published in **IEEE Transactions on Multimedia**
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by **Briefings in Bioinformatics** ([paper link](https://academic.oup.com/bib/article/25/5/bbae443/7754451))
+- *2024.06*: &nbsp;🎉🎉 Open-sourced [AutoGeo](https://autogeo-official.github.io/)
 - *2024.06*: &nbsp;🎉🎉 Graduated from Chu Kochen Honors College of Zhejiang University with B.E.
 
-# 📖 Educations
-- *2024.09 - Present* B.S. in Computer Science, University of California San Diego, CA, United States
-- *2020.09 - 2024.06* B.E. in Artificial Intelligence, Turing Class, Chu Kochen Honors College, Zhejiang University, Hangzhou, China
+<span class='anchor' id='-publications'></span>
+# 📝 Publications
 
-# 📝 Research and Work Experiences
+\* denotes equal contribution.
 
-## Alibaba Tmall Meta Research Group, 2024.6-Present
+## Published
 
-
-## Shanghai Institute for Advanced Study of Zhejiang University, 2024.1-2024.6, Supervisor : Prof. Jingyuan Chen
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INeurIPS 2024 Track on Datasets and Benchmarks</div><img src='images/bg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="WS-GRPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding, NeurIPS 2024 Datasets and Benchmarks Track (Under Review)](https://autogeo-official.github.io/)
+[WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning](https://icml.cc/virtual/2026/poster/64686)
+
+Gagan Mundada, **Zihan Huang**, Rohan Surana, Sheldon Yu, Jennifer Yuntong Zhang, Xintong Li, Tong Yu, Lina Yao, Jingbo Shang, Julian McAuley, Junda Wu
+
+[[Paper](https://arxiv.org/abs/2602.17025)] [[OpenReview](https://openreview.net/forum?id=rXma48njj6)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="IDC" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Image Difference Captioning via Adversarial Preference Optimization](https://aclanthology.org/2025.emnlp-main.1713/)
+
+**Zihan Huang**, Junda Wu, Rohan Surana, Tong Yu, David Arbour, Raghav Sinha, Julian McAuley
+
+[[Paper](https://aclanthology.org/2025.emnlp-main.1713/)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/500x300.png' alt="Traceable MLLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Traceable and Explainable Multimodal Large Language Models: An Information-Theoretic View](https://openreview.net/forum?id=pQm66IPmeE)
+
+**Zihan Huang**\* , Junda Wu\*, Rohan Surana, Raghav Jain, Tong Yu, Raghavendra Addanki, David Arbour, Sungchul Kim, Julian McAuley
+
+[[Paper](https://openreview.net/forum?id=pQm66IPmeE)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/TMM.jpg' alt="AutoGeo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding](https://autogeo-official.github.io/)
 
 **Zihan Huang**, Tao Wu, Wang Lin, Shengyu Zhang, Jingyuan Chen, Fei Wu
 
-- We created a tool to automatically generate various images of geometry figures and their corresponding natural language descriptions.
-- We generate a datasets AutoGeo-100K and use it for multi-modal LLMs alignment training and verify the reliable of our datasets through this.
+[[Paper](https://doi.org/10.1109/TMM.2025.3557720)] [[Project](https://autogeo-official.github.io/)]
+
 </div>
 </div>
 
-
-## ZJU DCD Lab, 2022.2-2023.6, Supervisor : Prof. Fei Wu
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB</div><img src='images/BIB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB 2024</div><img src='images/BIB.jpg' alt="HGC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://academic.oup.com/bib/article/25/5/bbae443/7754451">Global-local aware heterogeneous graph contrastive learning for multifaceted association prediction in miRNA-gene-disease networks
+[Global-local aware Heterogeneous Graph Contrastive Learning for multifaceted association prediction in miRNA–gene–disease networks](https://academic.oup.com/bib/article/25/5/bbae443/7754451)
 
-- We proposed a contrastive pre-training methods of GNN to predict the correlation between miRNA-gene and diseases.
+Yang Si, **Zihan Huang**, Zhengqing Fang, Zhen Yuan, Zhen Huang, Yuxuan Li, Yuxuan Wei, Fei Wu, Yong-Fang Yao
+
+[[Paper](https://academic.oup.com/bib/article/25/5/bbae443/7754451)]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
+## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="GFCR Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://github.com/huang-zihan/huang-zihan.github.io/tree/main/docs/PDD.pdf">Private Data protected Distillation model for image captioning via multi-teachers latent space feature aggregation</a>
+[Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning](https://arxiv.org/abs/2605.02913)
 
+Rohan Surana, Gagan Mundada, Xunyi Jiang, Chen Wang, Zifan Tang, Dongxu Jiao, **Zihan Huang**, et al.
 
-Mengze Li, **Zihan Huang**, Ziqi Tan, Zhengqing Fang, Zhou Zhao, Kun Kuang, Shengyu Zhang, Fei Wu
+[[Paper](https://arxiv.org/abs/2605.02913)]
 
-- We created an framework based on differential privacy to filter privacy information in data while training captioning model. 
-- The evaluation result of our framework PDD shows that we can add more privacy protection for models while keeping maintaining better model usability compared with other methods.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM2023</div><img src='images/ACMMM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="AMPS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval](docs/TITAN.pdf) -->
-<a href="https://github.com/huang-zihan/huang-zihan.github.io/tree/main/docs/TITAN.pdf">TITAN: Test-tIme Training via counterfactuAl generation and casual interventioN for text-video retrieval</a>
+[AMPS: Adaptive Modality Preference Steering via Functional Entropy](https://arxiv.org/abs/2602.12533)
 
-Mengze Li, **Zihan Huang**, Han Wang, Jiaxu Miao, Wenyan Fan, Zhou Zhao, Shengyu Zhang, Wenming Tan, Fei Wu
+**Zihan Huang**, Xintong Li, Rohan Surana, Tong Yu, Rui Wang, Julian McAuley, Jingbo Shang, Junda Wu
 
-- We created an system with causal disentanglement to retrieve videos of different data distribution by natural language discription of their contents. 
-- The result and case study shows of our systems can retrieve videos with differnent senarios robustly.
-- We provides a datasets with various videos from life and movie to better evaluate our system and for research in this area.
+[[Paper](https://arxiv.org/abs/2602.12533)]
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Skill-R1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Skill-R1: Agent Skill Evolution via Reinforcement Learning](https://arxiv.org/abs/2605.09359)
 
+Yash Vishe, Rohan Surana, Xunyi Jiang, **Zihan Huang**, Xintong Li, Nikki Lijing Kuang, Tong Yu, Ryan A. Rossi, Jingbo Shang, Julian McAuley, Junda Wu
+
+[[Paper](https://arxiv.org/abs/2605.09359)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Skill-CMIB" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Skill-CMIB: Multimodal Agent Skill for Consistent Action via Conditional Multimodal Information Bottleneck](https://arxiv.org/abs/2605.08526)
+
+**Zihan Huang**\* , Junda Wu\*, Tong Yu, Qianqi Yan, Rohan Surana, Uttaran Bhattacharya, Lina Yao, Xin Eric Wang, Julian McAuley
+
+[[Paper](https://arxiv.org/abs/2605.08526)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="Entity Matching" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluation on Entity Matching in Recommender Systems](https://arxiv.org/abs/2601.17218)
+
+**Zihan Huang**, Rohan Surana, Zhouhang Xie, Junda Wu, Yu Xia, Julian McAuley
+
+[[Paper](https://arxiv.org/abs/2601.17218)] [[Code](https://github.com/huang-zihan/Reddit-Amazon-Entity-Matching)]
+
+</div>
+</div>
+
+<span class='anchor' id='-educations'></span>
+# 📖 Educations
+
+- *2024.09 – Present*, Ph.D. in Computer Science, University of California San Diego, CA, United States (Advisor: [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/))
+- *2020.09 – 2024.06*, B.E. in Artificial Intelligence, Turing Class, Chu Kochen Honors College, Zhejiang University, Hangzhou, China
+
+<span class='anchor' id='-research-experiences'></span>
+# 💼 Research Experiences
+
+- **UC San Diego** — McAuley Lab, *2024.09 – Present*, Advisor: Prof. Julian McAuley
+- **Alibaba** — Tmall Meta Research Group, *2024.06 – 2024.09*
+- **Shanghai Institute for Advanced Study of Zhejiang University**, *2024.01 – 2024.06*, Supervisor: Prof. Jingyuan Chen
+- **ZJU DCD Lab**, *2022.02 – 2023.06*, Supervisor: Prof. Fei Wu
+
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
-- Project leader of National Student Research Training Program(SRTP) and rated as Outstanding, 2022-2023
-- Honorable Winner of Mathematical Contest in Modeling(MCM), work as team leader, 2022, COMAP
-- Academic Excellence Award 2020-2022, Chu Kochen Honors College of ZJU
-- Second-Class Scholarship for Elite Student in Basic Sciences, 2021-2022, ZJU
-- Serve as NeurIPS emergency Reveiwer, 2023
+
+- Project leader of National Student Research Training Program (SRTP) and rated as Outstanding, 2022–2023
+- Honorable Winner of Mathematical Contest in Modeling (MCM), team leader, 2022, COMAP
+- Academic Excellence Award 2020–2022, Chu Kochen Honors College of ZJU
+- Second-Class Scholarship for Elite Student in Basic Sciences, 2021–2022, ZJU
+- NeurIPS emergency Reviewer, 2023
 - 2nd Prize of 3D Printing Competition, 2020, ZJU
 - 2nd Prize of Zhejiang College Student Physics Competition, 2021
-- Half Marathon 1h53m and Ranked 84/1000+, 2020, HangZhou, Zhejiang
-- 1st Prize of Search&Rescue of Asia-Pacific Robotics Championship(APRC), 2013
-- 1st Prize of Triathlon of Asia-Pacific Robotics Championship(APRC), 2013
-
+- Half Marathon 1h53m, ranked 84/1000+, 2020, Hangzhou, Zhejiang
+- 1st Prize of Search & Rescue, Asia-Pacific Robotics Championship (APRC), 2013
+- 1st Prize of Triathlon, Asia-Pacific Robotics Championship (APRC), 2013
